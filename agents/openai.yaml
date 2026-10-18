@@ -1,0 +1,4 @@
+interface:
+  display_name: "Typora 免费测试版修复"
+  short_description: "诊断并修复 Windows Typora 旧测试版到期提示，支持隔离检查、备份及恢复"
+  default_prompt: "使用 $typora-beta-repair 检查并修复 Typora 免费测试版的启动到期提示，保留现有版本。"

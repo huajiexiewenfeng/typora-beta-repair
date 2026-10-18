@@ -1,0 +1,13 @@
+# Machine-specific repair output must stay local.
+backups/
+tmp/
+*.reg
+*.sddl
+profile.data
+original-profile.data
+result.json
+*.pending
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
